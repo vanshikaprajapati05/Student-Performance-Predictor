@@ -6,8 +6,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.preprocessing import StandardScaler
 
-"""import joblib"""
-
 # Load dataset
 df = pd.read_csv("student_data.csv")
 
