@@ -69,11 +69,6 @@ result = model.predict(new_student_scaled)
 
 print("\nPrediction for New Student:", result)
 
-# Save model
-"""joblib.dump(model, "performance_model.pkl")
-
-print("\nModel Saved Successfully")"""
-
 # Visualization
 plt.scatter(df["StudyHours"], df["PreviousMarks"])
 
