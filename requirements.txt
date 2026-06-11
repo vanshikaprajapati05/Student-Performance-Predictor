@@ -1,0 +1,6 @@
+##Requirements 
+
+pandas
+scikit-learn
+matplotlib
+joblib
