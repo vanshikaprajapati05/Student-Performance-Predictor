@@ -11,6 +11,9 @@ A beginner machine learning project built using Python and Scikit-learn.
 - Saves trained model using Joblib
 
 ##Scatter Plot
+
+
+
 ![Alt.Text](https://github.com/vanshikaprajapati05/Student-Performance-Predictor/blob/49a992c18b79b6f40a87892c2716e143f3e7ad26/Figure_1.png)
 
 ## Technologies Used
