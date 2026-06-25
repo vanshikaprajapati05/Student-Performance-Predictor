@@ -75,7 +75,7 @@ plt.scatter(df["StudyHours"], df["PreviousMarks"])
 plt.xlabel("Study Hours")
 plt.ylabel("Previous Marks")
 
-plt.title("Study Hours vs Previous Marks")
+plt.title("Study Hours Vs Previous Marks")
 
 plt.show()
 
